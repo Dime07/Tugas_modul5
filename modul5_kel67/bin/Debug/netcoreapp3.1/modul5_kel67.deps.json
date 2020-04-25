@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "modul5_kel67/1.0.0": {
+        "runtime": {
+          "modul5_kel67.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "modul5_kel67/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

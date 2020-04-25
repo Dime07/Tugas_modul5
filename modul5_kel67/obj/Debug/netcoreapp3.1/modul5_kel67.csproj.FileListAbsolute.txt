@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\modul5_kel67\bin\Debug\netcoreapp3.1\modul5_kel67.exe
+C:\Users\acer\source\repos\modul5_kel67\bin\Debug\netcoreapp3.1\modul5_kel67.deps.json
+C:\Users\acer\source\repos\modul5_kel67\bin\Debug\netcoreapp3.1\modul5_kel67.runtimeconfig.json
+C:\Users\acer\source\repos\modul5_kel67\bin\Debug\netcoreapp3.1\modul5_kel67.runtimeconfig.dev.json
+C:\Users\acer\source\repos\modul5_kel67\bin\Debug\netcoreapp3.1\modul5_kel67.dll
+C:\Users\acer\source\repos\modul5_kel67\bin\Debug\netcoreapp3.1\modul5_kel67.pdb
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.AssemblyInfo.cs
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.dll
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.pdb
+C:\Users\acer\source\repos\modul5_kel67\obj\Debug\netcoreapp3.1\modul5_kel67.genruntimeconfig.cache
